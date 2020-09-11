@@ -1,3 +1,27 @@
+% Copyright 2020 Jaime Tierney
+
+
+% Licensed under the Apache License, Version 2.0 (the "License");
+
+% you may not use this file except in compliance with the License.
+
+% You may obtain a copy of the license at
+
+
+% http://www.apache.org/licenses/LICENSE-2.0
+
+
+% Unless required by applicable law or agreed to in writing, software
+
+% distributed under the License is distributed on an "AS IS" BASIS,
+
+% WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+% See the License for the specific language governing permissions and 
+
+% limitations under the License.
+
+
 % This script demonstrates how to implement the adaptive ICA spatiotemporal
 % clutter filtering proposed in [1]. This script uses a maximum likelihood
 % approach (i.e., infomax) to perform ICA [2].
