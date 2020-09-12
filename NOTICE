@@ -1,0 +1,26 @@
+ICA Repository
+
+The following copyright applies to the files in Section #1: Copyright 2020 Jaime Tierney
+
+Section #1 {
+
+exampleCode.m
+
+}
+
+The above script uses an ICA infomax approach using publicly available ICA code that can be downloaded here:
+
+http://bsp.teithe.gr/members/downloads/DTUToolbox.html
+
+The 'Maximum likelihood (Infomax) - icaML' is what is necessary to download for running the example script. The citation for the toolbox is listed in the Citing this Repository section.
+
+Citing this Repository
+Please cite the following when using this repository code in publications:
+
+[1] Tierney, Jaime, et al. "Independent Component-Based Spatiotemporal Clutter Filtering for Slow Flow Ultrasound." IEEE Transactions on Medical Imaging 39.5 (2019): 1472-1482.
+[2] Kolenda, T. (Author), Sigurdsson, S. (Author), Winther, O. (Author), Hansen, L. K. (Author), & Larsen, J. (Author). (2002). DTU:Toolbox. Computer programme, ISP Group, Informatics and Mathematical Modelling, Tehcnical University of Denmark. http://isp.imm.dtu.dk/toolbox/
+
+The data variable in exampleData.mat was simulated using Field II. Please cite the following when using the data in the exampleData.mat file in publications:
+
+[3] J.A. Jensen and N. B. Svendsen: Calculation of pressure fields from arbitrarily shaped, apodized, and excited ultrasound transducers, IEEE Trans. Ultrason., Ferroelec., Freq. Contr., 39, pp. 262-267, 1992.
+[4] J.A. Jensen: Field: A Program for Simulating Ultrasound Systems, Paper presented at the 10th Nordic-Baltic Conference on Biomedical Imaging Published in Medical & Biological Engineering & Computing, pp. 351-353, Volume 34, Supplement 1, Part 1, 1996. 
