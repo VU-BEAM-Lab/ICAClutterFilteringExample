@@ -28,7 +28,7 @@ The 'Maximum likelihood (Infomax) - icaML' is what is necessary to download for 
 
 Please cite both the above referenced paper [1] and the DTU toolbox [2] when using the example script. 
 
-The data variable in exampleData.mat was simulated using Field II. Please cite the following when using the exampleData.mat:
+The data variable in exampleData.mat was simulated using Field II. Please cite the following when using the data in the exampleData.mat file in publications:
 
 [3] J.A. Jensen and N. B. Svendsen: Calculation of pressure fields from arbitrarily shaped, apodized, and excited ultrasound transducers, IEEE Trans. Ultrason., Ferroelec., Freq. Contr., 39, pp. 262-267, 1992.
 
