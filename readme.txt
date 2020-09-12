@@ -1,3 +1,7 @@
+Copyright 2020 Jaime Tierney
+
+These materials are made available under the Apache License, Version 2.0. For details, refer to the LICENSE file.
+
 This example code demonstrates how the adaptive ICA approach was implemented in the following work:
 
 [1] Tierney, Jaime, et al. "Independent Component-Based Spatiotemporal Clutter Filtering for Slow Flow Ultrasound." IEEE Transactions on Medical Imaging 39.5 (2019): 1472-1482.
@@ -18,6 +22,10 @@ This script uses an ICA infomax approach using publicly available ICA code that 
 
 http://bsp.teithe.gr/members/downloads/DTUToolbox.html
 
+[2] Kolenda, T. (Author), Sigurdsson, S. (Author), Winther, O. (Author), Hansen, L. K. (Author), & Larsen, J. (Author). (2002). DTU:Toolbox. Computer programme, ISP Group, Informatics and Mathematical Modelling, Tehcnical University of Denmark. http://isp.imm.dtu.dk/toolbox/
+
 The 'Maximum likelihood (Infomax) - icaML' is what is necessary to download for running the example script.
 
-Please cite both the above referenced paper [1] and toolbox when using these materials.
+Please cite both the above referenced paper [1] and the DTU toolbox [2] when using these materials.
+
+This work was supported inpart by NIH under Grant 1R35HL135790-01 and Grant S10OD016216-01 and in part by NSF under Grant IIS-175099

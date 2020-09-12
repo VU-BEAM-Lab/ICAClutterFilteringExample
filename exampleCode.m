@@ -30,7 +30,11 @@
 % Clutter Filtering for Slow Flow Ultrasound." IEEE Transactions on 
 % Medical Imaging 39.5 (2019): 1472-1482.
 % 
-% [2] http://bsp.teithe.gr/members/downloads/DTUToolbox.html
+% [2] Kolenda, T. (Author), Sigurdsson, S. (Author), Winther, O. (Author),
+% Hansen, L. K. (Author), & Larsen, J. (Author). (2002). DTU:Toolbox. 
+% Computer programme, ISP Group, Informatics and Mathematical 
+% Modelling, Tehcnical University of Denmark. 
+% http://isp.imm.dtu.dk/toolbox/
 
 % clear work space
 clear all; close all;
